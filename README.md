@@ -1,12 +1,16 @@
+
 # Cantleaver-Monitor-Arm-Mount-for-Dorm-Desk
-Metal Extrusion "bracket" that allows for a monitor arm to be mounted to any desk with a wall behind it
+Metal Extrusion framework that allows for a monitor arm to be mounted to any desk with a wall behind it
 
 ## Project Overview
 I designed and built a impermant and damage-free way to use a monitor arm on my school dorm's desks. This project arose after coming back on campus after being at home for 16 months due to Covid-19. I had revamped my setup to the point where a monitor arm was needed to prevent a total redesign from needing to occur. 
 
 
-The design cosists of a metal framework that is sandwhiched in between the wall and the desk with arms going down the back of the desk to increase the amount of force needed to tip the monitor arm. 
+The design cosists of a metal framework that is sandwiched in between the wall and the desk with arms going down the back of the desk to increase the amount of force needed to tip the monitor arm. 
 
+## Initial Sketch (Very much not to scale) 
+![PXL_20210810_065110253 MP](https://user-images.githubusercontent.com/72219191/130905371-cfd65c1c-fd60-417c-8e23-f0fbc41e6ed7.jpg)
+The surrounding numbers is me getting an estimate on how much 2020 extrusion I will need. I was aiming to keep it under 600mm x 4 pieces. 
 ## First Design
 I started with a very complex design that I wanted to use as my own "Final Project" for my DIY fabrication. The design would combine woodwork, staining/painting, metal cutting, elctronic integration, and 3D-printing. This complex design was fully designed in Solidworks, since I would need precise build dimensions for everything. The basis for this design (and all following iterations) was 2020 Aluminum Extrusion. I had previously used this material while building an underdesk shelf for my small form factor pc. 2020 extrusion is ideal for this application because it offers great structural rigidity while still being easy to assemble and disassemble. This was vital, since I would need to take this to my school along with the rest of my belongings. As well, if the project turned out to be a failure I wanted to be able to store the project in my dorm room until given the opurtunity to move it out. 
 
@@ -33,3 +37,6 @@ At the time of writing the mount is has not shown the slightest bit of wobble or
 I am very proud of the project and I feel that this still is my DIY final project, since it shows how much more practically I am thinking. An earlier version of me would have stuck with my first iteration and suffered a great many setbacks just for the thought to occur that the project could have been accomplished much better for less expense.
 
 My favorite aspect of the project is the two bolts that thread into the cantileaver arms. I have always wanted to use a screw tap, but had never had a good reason. After 3D printing an allignment jig I perfectly tapped both holes. It was a a very gratifying experince that stressed patience and following a set of instruction. The tapped threads combined with the countersining needed for the screw heads to not protrude into the wood makes that specific area of the project my favorite. 
+
+## Sources
+The part files for all of the hardware as well as the monitor arm were downloaded from Grabcad. 

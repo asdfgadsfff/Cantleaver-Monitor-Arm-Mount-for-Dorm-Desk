@@ -2,14 +2,18 @@
 Metal Extrusion "bracket" that allows for a monitor arm to be mounted to any desk with a wall behind it
 
 ## Project Overview
-I designed and built a impermant and damage-free way to use a monitor arm on my school dorm's desks. This project arose after coming back on campus after being at home for 16 months due to Covid-19. I had revamped my setup to the point where a monitor arm was needed to prevent a total redesign from needing to occur.
+I designed and built a impermant and damage-free way to use a monitor arm on my school dorm's desks. This project arose after coming back on campus after being at home for 16 months due to Covid-19. I had revamped my setup to the point where a monitor arm was needed to prevent a total redesign from needing to occur. 
+
+
+The design cosists of a metal framework that is sandwhiched in between the wall and the desk with arms going down the back of the desk to increase the amount of force needed to tip the monitor arm. 
 
 ## First Design
 I started with a very complex design that I wanted to use as my own "Final Project" for my DIY fabrication. The design would combine woodwork, staining/painting, metal cutting, elctronic integration, and 3D-printing. This complex design was fully designed in Solidworks, since I would need precise build dimensions for everything. The basis for this design (and all following iterations) was 2020 Aluminum Extrusion. I had previously used this material while building an underdesk shelf for my small form factor pc. 2020 extrusion is ideal for this application because it offers great structural rigidity while still being easy to assemble and disassemble. This was vital, since I would need to take this to my school along with the rest of my belongings. As well, if the project turned out to be a failure I wanted to be able to store the project in my dorm room until given the opurtunity to move it out. 
 
-This first design was quite extravagant, with a built in wireless charger, large wooden top, and two arms extending 40 centimeters down the back of a desk. The first design also required expensive specialty hardware like flush-mount right angle brackets and 4mm thick L-Brackets. (These brackets would then have to further modified by cutting and drilling extra holes. 
+This first design was quite extravagant, with a built in wireless charger and large wooden top with chamfers and countersunk holes, but had very short arms due to a restriction in the amount of purchasable material. The first design also required expensive specialty hardware like flush-mount right angle brackets and 4mm thick L-Brackets. (These brackets would then have to further modified by cutting and drilling extra holes.) 
 
-The over designing of the first iteration was due to a lack of trust in the strength of the extrusion as well as the brackets. Although I had worked with the material earlier in the year, I had forgotten how robust the extrusion was. 
+The over designing of the first iteration was due to a lack of trust in the strength of the extrusion as well as the brackets. Although I had worked with the material earlier in the year, I had forgotten how robust the extrusion was. I also didnt want to go through the entire build process just for the mount to break when tested for the first time.
+
 ## Second Iteration
 
 After taking a break for a day I came back to my original design and noticed alot of overengineering. I realised that could save 1200mm of extrusion by going with a simpler design of the two arms. This new design still used a large wooden base, but allowed for me to extend the length of the arms to 600mm. I felt that that increasing the length of the arms was needd since longer cantileaver arms would allow for the monitor arm to hold more weight and go farther out.

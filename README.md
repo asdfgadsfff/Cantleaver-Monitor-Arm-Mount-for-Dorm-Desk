@@ -36,7 +36,7 @@ At the time of writing the mount is has not shown the slightest bit of wobble or
 
 I am very proud of the project and I feel that this still is my DIY final project, since it shows how much more practically I am thinking. An earlier version of me would have stuck with my first iteration and suffered a great many setbacks just for the thought to occur that the project could have been accomplished much better for less expense.
 
-My favorite aspect of the project is the two bolts that thread into the cantileaver arms. I have always wanted to use a screw tap, but had never had a good reason. After 3D printing an allignment jig I perfectly tapped both holes. It was a a very gratifying experince that stressed patience and following a set of instruction. The tapped threads combined with the countersining needed for the screw heads to not protrude into the wood makes that specific area of the project my favorite. 
+My favorite aspect of the project is the two bolts that thread into the cantileaver arms. I have always wanted to use a screw tap, but had never had a good reason. After 3D printing an allignment jig I perfectly tapped both holes. It was a a very gratifying experince that stressed patience and following a set of instructions. The tapped threads combined with the countersining needed for the screw heads to not protrude into the wood makes that specific area of the project my favorite. 
 
 ## Sources
 The part files for all of the hardware as well as the monitor arm were downloaded from Grabcad. 

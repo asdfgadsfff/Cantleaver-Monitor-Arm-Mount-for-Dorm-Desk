@@ -1,4 +1,5 @@
 
+
 # Cantleaver-Monitor-Arm-Mount-for-Dorm-Desk
 Metal Extrusion framework that allows for a monitor arm to be mounted to any desk with a wall behind it
 
@@ -57,6 +58,16 @@ All of these desing changes saved 50$, created a much more compacted device, all
 During the fabrication process I modified the design by moving the position of the 'outrigging' extrusion peices. These pieces were originally added to the design for show, so I decided  move the pieces to the very end of the desktop extrusion and add a heavily rounded corner. I also sanded every exposed corver of the extrusion, since it can be very sharp and easily tear skin.
 
 After fabrication was completed I added a coat of balck paint to the wood and applied a quick shot of spray paint to the exposed aluminum that would be visible while the mount is in use. 
+
+![Capture](https://user-images.githubusercontent.com/72219191/131429595-81b5873e-bb26-4197-b4fb-5e63e6aaf1bc.PNG)
+![Captur2e](https://user-images.githubusercontent.com/72219191/131429597-42e0c7bd-9d40-491c-a23a-26dcf2bb7836.PNG)
+![Capture3](https://user-images.githubusercontent.com/72219191/131429596-33429161-0beb-4f70-8c82-c1ab0a7510f6.PNG)
+![PXL_20210829_003546827](https://user-images.githubusercontent.com/72219191/131429432-65688090-f7b6-4f63-94e9-98aea3deec28.jpg)
+![PXL_20210829_003551056](https://user-images.githubusercontent.com/72219191/131429435-c2b71a1c-ba3c-45a3-95b3-03912e8c087c.jpg)
+![PXL_20210829_003132726](https://user-images.githubusercontent.com/72219191/131429436-2c8f4447-fcb9-4485-8856-52fff25696d9.jpg)
+![Captur4e](https://user-images.githubusercontent.com/72219191/131429593-b275b5b9-d111-402c-940c-f6283de8faf9.PNG)
+
+
 ## Results of Project 
 
 At the time of writing the mount is has not shown the slightest bit of wobble or instability. The mount allows for easy manipulation of the monitor and the monitor arm is able to manuvere as though it was properly mounted to the desk. Installation is exceedingly simple, with only 7 hex head screws needing to be fastened. 

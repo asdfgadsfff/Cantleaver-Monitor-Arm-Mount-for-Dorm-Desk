@@ -6,7 +6,7 @@ Metal Extrusion framework that allows for a monitor arm to be mounted to any des
 I designed and built a impermant and damage-free way to use a monitor arm on my school dorm's desks. This project arose after coming back on campus after being at home for 16 months due to Covid-19. I had revamped my setup to the point where a monitor arm was needed to prevent a total redesign from needing to occur. 
 
 
-The design cosists of a metal framework that is sandwiched in between the wall and the desk with arms going down the back of the desk to increase the amount of force needed to tip the monitor arm. 
+The design cosists of a metal framework that is sandwiched in between the wall and the desk with arms going down the back of the desk to increase the amount of force needed to tip the monitor arm.
 
 ## Initial Sketch (Very much not to scale) 
 ![PXL_20210810_065110253 MP](https://user-images.githubusercontent.com/72219191/130905371-cfd65c1c-fd60-417c-8e23-f0fbc41e6ed7.jpg)
@@ -24,7 +24,7 @@ This first design was quite extravagant, with a built in wireless charger and la
 
 ![image](https://user-images.githubusercontent.com/72219191/131070449-ce10c0b4-82d2-41b8-9583-402e0863dddf.png)
 
-(A close up of the routered out channel that would holde small plastic markers indicating the wireless charger's location.)
+**(A close up of the routered out channel that would holde small plastic markers indicating the wireless charger's location.)**
 
 ![image](https://user-images.githubusercontent.com/72219191/131070965-6f5b3cf8-1b23-4139-8bd4-9652885e939a.png)
 
@@ -39,9 +39,15 @@ This design also did not account for wire runs. Since I would need to create at 
 ## Second Iteration
 
 After taking a break for a day I came back to my original design and noticed alot of overengineering. I realised that could save 1200mm of extrusion by going with a simpler design of the two arms. This new design still used a large wooden base, but allowed for me to extend the length of the arms to 600mm. I felt that that increasing the length of the arms was needed since longer cantileaver arms would allow for the monitor arm to hold more weight and go farther out.
+
+
 ![image](https://user-images.githubusercontent.com/72219191/131073935-f4999aaa-6821-4126-a466-4105c22f0538.png)
+
+(A good view of the major changes for this design. Notice the lack of a piece of extrusion going across the back of the bracket at the corner of the desk. This redesign both saves material as well as allows for much, much easier cable routing.)
+
 ![image](https://user-images.githubusercontent.com/72219191/131074041-d0ba4622-6146-4b11-853a-9d681e45ce4b.png)
 
+(This image shows a back corner of the mount which has 3 mounting points to the frame and one in the wood for each corner of the mount. Allthough not depicted in my solidworks file, this is the first instance where the need of threadign would occur. The very back hole in this image would be threaded through the middle of the extrusion to secure it in place.)
 
 ## Third Iteration
 The 3rd and final iteration saw a great simplification and reduction in cost and complexity. I first exchanged the large peice of wood for a much smaller square. This allowed me to use scrap wood that I already had from a previous project. I also decreased the amount of extrusion needed even further by relinging on a single 600mm length of etrusion to maintain rotational stability of the mount. Previously I had used two lengths of extrusion on the top of desk as well as spaccing the catilever arms far apart from each other. 3rd, I exchanged the modified L brackets for bolts and 2020 extrusion slot nuts. This alone allowed for a reduction of 20$ of the total cost and greatly simplified the final product as well as decreased the number of fabrication mistakes possible. Finally, I replaced the expensive flush-mount right angle brackets by tapping the extrusion of the catileaver arms and bolting them to the desktop portion of the mount. This allowed me to gain experince in tapping aluminum for the first time as well as save money. 
@@ -60,4 +66,4 @@ I am very proud of the project and I feel that this still is my DIY final projec
 My favorite aspect of the project is the two bolts that thread into the cantileaver arms. I have always wanted to use a screw tap, but had never had a good reason. After 3D printing an allignment jig I perfectly tapped both holes. It was a a very gratifying experince that stressed patience and following a set of instructions. The tapped threads combined with the countersining needed for the screw heads to not protrude into the wood makes that specific area of the project my favorite. 
 
 ## Sources
-The part files for all of the hardware as well as the monitor arm were downloaded from Grabcad. 
+The part files for all of the hardware as well as the monitor arm were downloaded from Grabcad. I modified some the dimensions for my needs. 

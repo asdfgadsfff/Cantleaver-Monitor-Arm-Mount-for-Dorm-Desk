@@ -67,9 +67,11 @@ After fabrication was completed, I added a coat of black paint to the wood and a
 
 
 ![131429436-2c8f4447-fcb9-4485-8856-52fff25696d9](https://user-images.githubusercontent.com/72219191/131612532-f6cdca69-1abe-4916-8cfd-2c4882f5c115.jpg)
+
 (Original Design for the Corners)
 
 ![131429593-b275b5b9-d111-402c-940c-f6283de8faf9](https://user-images.githubusercontent.com/72219191/131612539-a7797a4c-65f1-460a-844b-517295b2865c.PNG)
+
 (Changes Made During Manufacturing; Notice the Painted Aluminum Folders) 
 
 ## Results of Project 

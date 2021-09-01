@@ -62,11 +62,15 @@ After fabrication was completed, I added a coat of black paint to the wood and a
 ![Capture](https://user-images.githubusercontent.com/72219191/131429595-81b5873e-bb26-4197-b4fb-5e63e6aaf1bc.PNG)
 ![Captur2e](https://user-images.githubusercontent.com/72219191/131429597-42e0c7bd-9d40-491c-a23a-26dcf2bb7836.PNG)
 ![Capture3](https://user-images.githubusercontent.com/72219191/131429596-33429161-0beb-4f70-8c82-c1ab0a7510f6.PNG)
-![PXL_20210829_003546827](https://user-images.githubusercontent.com/72219191/131429432-65688090-f7b6-4f63-94e9-98aea3deec28.jpg)
-![PXL_20210829_003551056](https://user-images.githubusercontent.com/72219191/131429435-c2b71a1c-ba3c-45a3-95b3-03912e8c087c.jpg)
-![PXL_20210829_003132726](https://user-images.githubusercontent.com/72219191/131429436-2c8f4447-fcb9-4485-8856-52fff25696d9.jpg)
-![Captur4e](https://user-images.githubusercontent.com/72219191/131429593-b275b5b9-d111-402c-940c-f6283de8faf9.PNG)
+![131429432-65688090-f7b6-4f63-94e9-98aea3deec28](https://user-images.githubusercontent.com/72219191/131612154-abd31998-2d31-420f-9e80-4a090e384151.jpg)
+![131429435-c2b71a1c-ba3c-45a3-95b3-03912e8c087c](https://user-images.githubusercontent.com/72219191/131612389-5184a179-7d2c-4d8b-b389-46421474427d.jpg)
 
+
+![131429436-2c8f4447-fcb9-4485-8856-52fff25696d9](https://user-images.githubusercontent.com/72219191/131612532-f6cdca69-1abe-4916-8cfd-2c4882f5c115.jpg)
+(Original Design for the Corners)
+
+![131429593-b275b5b9-d111-402c-940c-f6283de8faf9](https://user-images.githubusercontent.com/72219191/131612539-a7797a4c-65f1-460a-844b-517295b2865c.PNG)
+(Changes Made During Manufacturing; Notice the Painted Aluminum Folders) 
 
 ## Results of Project 
 

@@ -25,7 +25,7 @@ This first design was quite extravagant, with a built-in wireless charger and la
 
 ![image](https://user-images.githubusercontent.com/72219191/131070449-ce10c0b4-82d2-41b8-9583-402e0863dddf.png)
 
-**(A closeup of the routered out channel that would hold small plastic markers indicating the wireless charger's location.)**
+**^(A closeup of the routered out channel that would hold small plastic markers indicating the wireless charger's location.)**
 
 ![image](https://user-images.githubusercontent.com/72219191/131070965-6f5b3cf8-1b23-4139-8bd4-9652885e939a.png)
 

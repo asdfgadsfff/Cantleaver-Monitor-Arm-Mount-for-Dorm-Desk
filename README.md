@@ -68,7 +68,7 @@ asdfghjkl
 
 **^(Original Design for the Corners)**
 
-![131429436-2c8f4447-fcb9-4485-8856-52fff25696d9](https://user-images.githubusercontent.com/72219191/131612532-f6cdca69-1abe-4916-8cfd-2c4882f5c115.jpg)
+![PXL_20210829_003132726](https://user-images.githubusercontent.com/72219191/131614576-32a739d3-3bc7-4255-b6cc-46627ce09088.jpg)
 
 **^(Changes Made During Manufacturing; Notice the Painted Aluminum Folders)**
 

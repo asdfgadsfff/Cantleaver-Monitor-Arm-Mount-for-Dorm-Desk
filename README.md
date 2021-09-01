@@ -76,6 +76,7 @@ asdfghjkl
 ![131429432-65688090-f7b6-4f63-94e9-98aea3deec28](https://user-images.githubusercontent.com/72219191/131612154-abd31998-2d31-420f-9e80-4a090e384151.jpg)
 ![131429435-c2b71a1c-ba3c-45a3-95b3-03912e8c087c](https://user-images.githubusercontent.com/72219191/131612389-5184a179-7d2c-4d8b-b389-46421474427d.jpg)
 **^(Photos of the final build in its home)**
+
 At the time of writing the mount is has not shown the slightest bit of wobble or instability. The mount allows for easy manipulation of the monitor and the monitor arm is able to maneuver as though it was properly mounted to the desk. Installation is exceedingly simple, with only 7 hex head screws needing to be fastened. 
 
 I am very proud of the project, and I feel that this still is my DIY final project, since it shows how much more practically, I am thinking. An earlier version of me would have stuck with my first iteration and suffered a great many setbacks just for the thought to occur that the project could have been accomplished much better for less expense.

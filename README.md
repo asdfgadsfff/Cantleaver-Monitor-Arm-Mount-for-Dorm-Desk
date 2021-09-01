@@ -60,9 +60,16 @@ During the fabrication process I modified the design by moving the position of t
 After fabrication was completed, I added a coat of black paint to the wood and applied a quick shot of spray paint to the exposed aluminum that would be visible while the mount is in use. 
 
 ![Capture](https://user-images.githubusercontent.com/72219191/131429595-81b5873e-bb26-4197-b4fb-5e63e6aaf1bc.PNG)
+
+**^(An Overview of the Final Design)**
+
 ![Captur2e](https://user-images.githubusercontent.com/72219191/131429597-42e0c7bd-9d40-491c-a23a-26dcf2bb7836.PNG)
+
+**^(A View of the changes to the cantileaver arms.)**
+
 ![Capture3](https://user-images.githubusercontent.com/72219191/131429596-33429161-0beb-4f70-8c82-c1ab0a7510f6.PNG)
 
+**^(A view of the back of the tabletop assembly. The two holes with the countersinking are where the tapping of the extrusion was done. I would have a photo of the real-life version, but when assembled that section is hidden from view and I am lazy.)**
 asdfghjkl
 ![131429593-b275b5b9-d111-402c-940c-f6283de8faf9](https://user-images.githubusercontent.com/72219191/131612539-a7797a4c-65f1-460a-844b-517295b2865c.PNG)
 

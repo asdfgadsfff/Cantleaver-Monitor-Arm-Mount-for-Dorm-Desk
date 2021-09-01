@@ -20,7 +20,7 @@ I started with a very complex design that I wanted to use as my own "Final Proje
 This first design was quite extravagant, with a built-in wireless charger and large wooden top with chamfers and countersunk holes but had very short arms due to a restriction in the amount of purchasable material. The first design also required expensive specialty hardware like flush-mount right angle brackets and 4mm thick L-Brackets. (These brackets would then have to further modified by cutting and drilling extra holes.) 
 
 ![image](https://user-images.githubusercontent.com/72219191/131070326-855daf5f-9c2e-4be8-8c7a-afa721cdfe14.png)
-(The cut down L brackets with an extra hole drilled where the wooden top would need to screw in.)
+**^(The cut down L brackets with an extra hole drilled where the wooden top would need to screw in.)**
 
 
 ![image](https://user-images.githubusercontent.com/72219191/131070449-ce10c0b4-82d2-41b8-9583-402e0863dddf.png)
@@ -29,7 +29,7 @@ This first design was quite extravagant, with a built-in wireless charger and la
 
 ![image](https://user-images.githubusercontent.com/72219191/131070965-6f5b3cf8-1b23-4139-8bd4-9652885e939a.png)
 
-(A view of the underside of the wooden top, which shows the routered out space for the wireless charger and square metal plates. It also shows the small wire routing cutout behind the monitor arm mounting hole.)
+**^(A view of the underside of the wooden top, which shows the routered out space for the wireless charger and square metal plates. It also shows the small wire routing cutout behind the monitor arm mounting hole.)**
 
 
 
@@ -44,11 +44,11 @@ After taking a break for a day I came back to my original design and noticed a l
 
 ![image](https://user-images.githubusercontent.com/72219191/131073935-f4999aaa-6821-4126-a466-4105c22f0538.png)
 
-(A good view of the major changes for this design. Notice the lack of a piece of extrusion going across the back of the bracket at the corner of the desk. This redesign both saves material as well as allows for much, much easier cable routing.)
+**^(A good view of the major changes for this design. Notice the lack of a piece of extrusion going across the back of the bracket at the corner of the desk. This redesign both saves material as well as allows for much, much easier cable routing.)**
 
 ![image](https://user-images.githubusercontent.com/72219191/131074041-d0ba4622-6146-4b11-853a-9d681e45ce4b.png)
 
-(This image shows a back corner of the mount which has 3 mounting points to the frame and one in the wood for each corner of the mount. Although not depicted in my Solidworks file, this is the first instance where the need for threading would occur. The very back hole in this image would be threaded through the middle of the extrusion to secure it in place.)
+**^(This image shows a back corner of the mount which has 3 mounting points to the frame and one in the wood for each corner of the mount. Although not depicted in my Solidworks file, this is the first instance where the need for threading would occur. The very back hole in this image would be threaded through the middle of the extrusion to secure it in place.)**
 
 ## Third Iteration
 The 3rd and final iteration saw a great simplification and reduction in cost and complexity. I first exchanged the large piece of wood for a much smaller square. This allowed me to use scrap wood that I already had from a previous project. I also decreased the amount of extrusion needed even further by relying on a single 600mm length of extrusion to maintain rotational stability of the mount. Previously I had used two lengths of extrusion on the top of desk as well as spacing the cantilever arms far apart from each other. 3rd, I exchanged the modified L brackets for bolts and 2020 extrusion slot nuts. This alone allowed for a reduction of 20$ of the total cost and greatly simplified the final product as well as decreased the number of fabrication mistakes possible. Finally, I replaced the expensive flush-mount right angle brackets by tapping the extrusion of the cantilever arms and bolting them to the desktop portion of the mount. This allowed me to gain experience in tapping aluminum for the first time as well as save money. 

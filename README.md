@@ -65,15 +65,16 @@ After fabrication was completed, I added a coat of black paint to the wood and a
 ![131429432-65688090-f7b6-4f63-94e9-98aea3deec28](https://user-images.githubusercontent.com/72219191/131612154-abd31998-2d31-420f-9e80-4a090e384151.jpg)
 ![131429435-c2b71a1c-ba3c-45a3-95b3-03912e8c087c](https://user-images.githubusercontent.com/72219191/131612389-5184a179-7d2c-4d8b-b389-46421474427d.jpg)
 
+
+xx
+xx
 ![131429593-b275b5b9-d111-402c-940c-f6283de8faf9](https://user-images.githubusercontent.com/72219191/131612539-a7797a4c-65f1-460a-844b-517295b2865c.PNG)
+
+**^(Original Design for the Corners)**
+
 ![131429436-2c8f4447-fcb9-4485-8856-52fff25696d9](https://user-images.githubusercontent.com/72219191/131612532-f6cdca69-1abe-4916-8cfd-2c4882f5c115.jpg)
 
-(Original Design for the Corners)
-
-
-
-
-(Changes Made During Manufacturing; Notice the Painted Aluminum Folders) 
+**^(Changes Made During Manufacturing; Notice the Painted Aluminum Folders)**
 
 ## Results of Project 
 

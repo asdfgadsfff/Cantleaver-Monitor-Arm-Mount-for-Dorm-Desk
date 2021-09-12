@@ -4,7 +4,7 @@
 Metal Extrusion framework that allows for a monitor arm to be mounted to any desk with a wall behind it. The mount is completely damage free. 
 
 ## Project Overview
-I designed and built an impairment and damage-free way to use a monitor arm on my school dorm's desks. This project arose after coming back on campus after being at home for 16 months due to Covid-19. I had revamped my setup to the point where a monitor arm was needed to prevent a total redesign from needing to occur. 
+I designed and built an impermanant and damage-free way to use a monitor arm on my school dorm's desk. This project arose after coming back on campus after being at home for 16 months due to Covid-19. I had revamped my setup to the point where a monitor arm was needed to prevent a total redesign from needing to occur. 
 
 
 The design consists of a metal framework that is sandwiched in between the wall and the desk with arms going down the back of the desk to increase the amount of force needed to tip the monitor arm.

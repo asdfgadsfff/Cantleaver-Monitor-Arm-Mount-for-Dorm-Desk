@@ -4,7 +4,7 @@
 Metal Extrusion framework that allows for a monitor arm to be mounted to any desk with a wall behind it. The mount is completely damage free. 
 
 ## Project Overview
-I designed and built an impermanant and damage-free way to use a monitor arm on my school dorm's desk. This project arose after coming back on campus after being at home for 16 months due to Covid-19. I had revamped my setup to the point where a monitor arm was needed to prevent a total redesign from needing to occur. 
+I designed and built an impermanent and damage-free way to use a monitor arm on my school dorm's desk. This project arose after coming back on campus after being at home for 16 months due to Covid-19. I had revamped my setup to the point where a monitor arm was needed to prevent a total redesign from needing to occur. 
 
 
 The design consists of a metal framework that is sandwiched in between the wall and the desk with arms going down the back of the desk to increase the amount of force needed to tip the monitor arm.
@@ -65,12 +65,12 @@ After fabrication was completed, I added a coat of black paint to the wood and a
 
 ![Captur2e](https://user-images.githubusercontent.com/72219191/131429597-42e0c7bd-9d40-491c-a23a-26dcf2bb7836.PNG)
 
-**^(A View of the changes to the cantileaver arms.)**
+**^(A View of the changes to the cantilever arms.)**
 
 ![Capture3](https://user-images.githubusercontent.com/72219191/131429596-33429161-0beb-4f70-8c82-c1ab0a7510f6.PNG)
 
 **^(A view of the back of the tabletop assembly. The two holes with the countersinking are where the tapping of the extrusion was done. I would have a photo of the real-life version, but when assembled that section is hidden from view and I am lazy.)**
-asdfghjkl
+
 ![131429593-b275b5b9-d111-402c-940c-f6283de8faf9](https://user-images.githubusercontent.com/72219191/131612539-a7797a4c-65f1-460a-844b-517295b2865c.PNG)
 
 **^(Original Design for the Corners)**
@@ -91,4 +91,4 @@ I am very proud of the project, and I feel that this still is my DIY final proje
 My favorite aspect of the project is the two bolts that thread into the cantilever arms. I have always wanted to use a screw tap but had never had a good reason. After 3D printing an alignment jig, I perfectly tapped both holes. It was a very gratifying experience that stressed patience and following a set of instructions. The tapped threads combined with the countersinking needed for the screw heads to not protrude into the wood makes that specific area of the project my favorite. 
 
 ## Sources
-The part files for all of the hardware as well as the monitor arm were downloaded from Grabcad. I modified some the dimensions for my needs.
+The part files for all of the hardware as well as the monitor arm were downloaded from Grabcad. I modified some the dimensions for my needs.	

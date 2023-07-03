@@ -33,7 +33,7 @@ This first design was quite extravagant, with a built-in wireless charger and la
 
 
 
-The over designing of the first iteration was due to a lack of trust in the strength of the extrusion as well as the brackets. Although I had worked with the material earlier in the year, I had forgotten how robust the extrusion was. I also didn’t want to go through the entire build process just for the mount to break when tested for the first time.
+The over designing of the first iteration was due to a lack of trust in the strength of the extrusion as well as the brackets. Although I had worked with the material earlier in the year, I had forgotten how rigid the extrusion was. I also didn’t want to go through the entire build process just for the mount to break when tested for the first time.
 
 This design also did not account for wire runs. Since I would need to create at least 20mm of space between the d4esk and the wall, it would be really easy to run cables to the monitor. Unfortunately, the large wooden plank would not allow for a good routing channel. I ended up designing a small cutout, since I did not want to ruin the look of a single large rectangle or wood. 
 
